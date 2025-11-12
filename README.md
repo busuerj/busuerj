@@ -23,5 +23,7 @@ O projeto nasceu da **necessidade de otimizar a organização das viagens interm
 | Rastreamento em tempo real da localização dos ônibus | Backlog |
 | Exibição da previsão do tempo no destino da viagem | Backlog |
 
+## Stack de desenvolvimento
+[![My Skills](https://skillicons.dev/icons?i=node,typescript,postgres,docker,flutter,dart)](https://skillicons.dev)
 
 
