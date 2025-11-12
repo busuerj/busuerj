@@ -14,6 +14,8 @@ O sistema tem como objetivo oferecer as seguintes funcionalidades
 - Facilitar o embarque em viagens através de validação facial
 - Enviar alertas, passagens e informações relevantes via e-mail
 - Gerenciar a reserva dos assentos disponíveis em cada viagem evitando overbooking
+- Mostrar em tempo real a localização do ônibus
+- Mostrar a previsão do tempo no local de destino
 
 
 
