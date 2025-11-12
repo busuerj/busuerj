@@ -1,6 +1,8 @@
 # BusUERJ
 ### Plataforma de Reserva de Assentos para Ônibus Universiário
 
+> https://busuerj.online
+
 O projeto é uma plataforma on-premise voltada ao gerenciamento de reservas de assentos em viagens rodoviárias em ônibus universitários.
 
 O sistema tem como objetivo oferecer as seguintes funcionalidades
