@@ -24,6 +24,6 @@ O projeto nasceu da **necessidade de otimizar a organização das viagens interm
 | Exibição da previsão do tempo no destino da viagem | Backlog |
 
 ## Stack de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,postgres,docker,flutter,dart,nginx,python,fastapi)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,postgres,redis,docker,flutter,dart,nginx,python,fastapi)](https://skillicons.dev)
 
 
