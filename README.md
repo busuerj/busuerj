@@ -13,13 +13,13 @@ O projeto nasceu da **necessidade de otimizar a organização das viagens interm
 
 | Funcionalidade | Status |
 |----------------|---------|
-| Autenticação e gestão de usuários com base em e-mails institucionais ou domínios previamente cadastrados | Implementado |
+| Autenticação e gestão de usuários com base em e-mails institucionais ou domínios previamente cadastrados | Feito |
 | Gerenciamento completo de viagens, incluindo locais, rotas, motoristas e veículos | Em melhoria |
-| Agendamento automático de viagens recorrentes, reduzindo tarefas manuais | Implementado |
-| Notificações via WhatsApp sobre status de viagens, reservas e cancelamentos | Implementado |
+| Agendamento automático de viagens recorrentes, reduzindo tarefas manuais | Feito |
+| Notificações via WhatsApp sobre status de viagens, reservas e cancelamentos | Feito |
 | Validação facial para embarque, facilitando a identificação dos passageiros | Em desenvolvimento |
 | Envio automatizado de alertas, passagens e informações importantes por e-mail | Backlog |
-| Controle de reservas e assentos disponíveis, prevenindo overbooking | Implementado |
+| Controle de reservas e assentos disponíveis, prevenindo overbooking | Feito |
 | Rastreamento em tempo real da localização dos ônibus | Backlog |
 | Exibição da previsão do tempo no destino da viagem | Backlog |
 
