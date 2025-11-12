@@ -8,7 +8,6 @@ O **BusUERJ** é uma **plataforma on-premise** desenvolvida para o **gerenciamen
 
 O projeto nasceu da **necessidade de otimizar a organização das viagens intermunicipais** da **UERJ – campus Nova Friburgo**, aliando a resolução de um problema real à **exploração de um tema para o Trabalho de Conclusão de Curso em Engenharia de Computação**.
 
----
 
 ## Principais Funcionalidades
 
@@ -22,5 +21,4 @@ O projeto nasceu da **necessidade de otimizar a organização das viagens interm
 - **Rastreamento em tempo real** da localização dos ônibus.  
 - **Exibição da previsão do tempo** no destino da viagem.
 
----
 
