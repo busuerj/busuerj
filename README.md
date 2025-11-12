@@ -26,6 +26,36 @@ O projeto nasceu da **necessidade de otimizar a organização das viagens interm
 ## Arquitetura
 ![diagram](diagram.svg)
 
+
+``m̀ermaid
+---
+config:
+  layout: elk
+  theme: redux-dark
+  look: neo
+---
+flowchart TB
+ subgraph s1["Facial Recognition"]
+        H["FACIAL RECOGNITION (SERVER)"]
+        I["FACIAL RECOGNITION (POSTGRES)"]
+  end
+ subgraph s2["Evolution"]
+        J["EVOLUTION API (SERVER)"]
+        K["EVOLUTION API (POSTGRES)"]
+        L["EVOLUTION API (REDIS)"]
+  end
+    B["NGINX (REVERSE PROXY)"] --> C["PORTAINER"] & D["BUSUERJ (FRONTEND)"] & E["BUSUERJ (CORE)"] & J
+    D --> E
+    E --> F["BUSUERJ (REDIS)"] & G["BUSUERJ (POSTGRES)"] & J & H
+    H --> I
+    J --> K & L
+    n1[" "] -- "https://busuerj.online" --> B
+    n1@{ icon: "aws:res-internet", pos: "b", h: 100}
+    style n1 stroke:#FFFFFF
+    style s2 fill:transparent,stroke:#FFFFFF,color:#FFFFFF
+    style s1 fill:transparent
+    ```
+
 ## Stack de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,postgres,redis,docker,flutter,dart,nginx,python,fastapi)](https://skillicons.dev)
 
