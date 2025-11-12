@@ -3,7 +3,7 @@
 
 O projeto é uma plataforma on-premise voltada ao gerenciamento de reservas de assentos em viagens rodoviárias em ônibus universitários.
 
-A aplicação como um todo tem como objetivo oferecer as seguintes funcionalidades
+O sistema tem como objetivo oferecer as seguintes funcionalidades
 - Efetuar o registro, login e gerenciamento de usuários a partir de seu e-mail educacional ou com domínio previamente cadastrado no sistema.
 - Gerenciais viagens, locais, rotas, motoristas e veículos
 - Agendar viagens recorrentes automaticamente
