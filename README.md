@@ -54,7 +54,7 @@ flowchart TB
     style n1 stroke:#FFFFFF
     style s2 fill:transparent,stroke:#FFFFFF,color:#FFFFFF
     style s1 fill:transparent
-    ```
+```
 
 ## Stack de desenvolvimento
 [![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,postgres,redis,docker,flutter,dart,nginx,python,fastapi)](https://skillicons.dev)
