@@ -1,4 +1,4 @@
-# BusUERJ: Plataforma de Reserva de Assentos para Ônibus Universiário
+# BusUERJ: Plataforma de Reserva de Assentos para Ônibus Universitários
 
 > https://busuerj.online
 
