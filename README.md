@@ -27,7 +27,7 @@ O projeto nasceu da **necessidade de otimizar a organização das viagens interm
 ![diagram](diagram.svg)
 
 
-``m̀ermaid
+```mermaid
 ---
 config:
   layout: elk
