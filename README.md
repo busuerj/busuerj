@@ -26,7 +26,6 @@ O projeto nasceu da **necessidade de otimizar a organização das viagens interm
 ## Arquitetura
 ![diagram](diagram.svg)
 
-## Stack de desenvolvimento
-[![My Skills](https://skillicons.dev/icons?i=nodejs,typescript,postgres,redis,docker,flutter,dart,nginx,python,fastapi)](https://skillicons.dev)
+
 
 
