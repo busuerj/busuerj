@@ -10,15 +10,15 @@ O projeto nasceu da **necessidade de otimizar a organização das viagens interm
 
 | Principais Funcionalidades | 
 |----------------|
-| Autenticação e gestão de usuários com base em e-mails institucionais ou domínios previamente cadastrados | 
-| Gerenciamento completo de viagens, incluindo locais, rotas, motoristas e veículos |
-| Agendamento automático de viagens recorrentes, reduzindo tarefas manuais | 
-| Notificações via WhatsApp sobre status de viagens, reservas e cancelamentos | 
-| Validação facial para embarque, facilitando a identificação dos passageiros | 
-| Envio automatizado de alertas, passagens e informações importantes por e-mail | 
-| Controle de reservas e assentos disponíveis, prevenindo overbooking | 
-| Rastreamento em tempo real da localização dos ônibus | 
-| Exibição da previsão do tempo no destino da viagem | 
+| - Autenticação e gestão de usuários com base em e-mails institucionais ou domínios previamente cadastrados | 
+| - Gerenciamento completo de viagens, incluindo locais, rotas, motoristas e veículos |
+| - Agendamento automático de viagens recorrentes, reduzindo tarefas manuais | 
+| - Notificações via WhatsApp sobre status de viagens, reservas e cancelamentos | 
+| - Validação facial para embarque, facilitando a identificação dos passageiros | 
+| - Envio automatizado de alertas, passagens e informações importantes por e-mail | 
+| - Controle de reservas e assentos disponíveis, prevenindo overbooking | 
+| - Rastreamento em tempo real da localização dos ônibus | 
+| - Exibição da previsão do tempo no destino da viagem | 
 
 
 
