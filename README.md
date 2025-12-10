@@ -1,6 +1,8 @@
 # BusUERJ: Plataforma de Reserva de Assentos para Ônibus Universitários
 
-> [https://busuerj.online](https://busuerj.online)
+### [https://busuerj.online](https://busuerj.online)
+> NOTA: Algumas rotas ainda não foram migradas e podem estar disponíveis nos domínios https://manoel.online ou https://manoelrodrigues.online
+
 
 ## O que é o BusUERJ?
 
